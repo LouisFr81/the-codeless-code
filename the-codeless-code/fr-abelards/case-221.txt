@@ -63,4 +63,4 @@ la préparation.
 "‘Cerise’ n'est que le nom de la /case/ dans laquelle il se trouvait.
 Le /contenu/ du chocolat est laissé à la surprise de chacun. Voilà,"
 dit-il, déplaçant un autre chocolat dans l'espace laissé vacant.
-"Si tu l'as aimé, prends-un en autre."
+"Si tu l'as aimé, prends-en un autre."
